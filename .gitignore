@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+hyperspider.iml
 
 # Folders
 _obj

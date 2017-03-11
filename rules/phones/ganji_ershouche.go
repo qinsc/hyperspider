@@ -16,8 +16,8 @@ func init() {
 }
 
 var GanJi_Ershouche = &Spider{
-	Name:        "SH_GANJI_ERSHOUCHE_USER_INFO",
-	Description: "取二手车卖家与mobile_phone [http://sh.ganji.com/ershouche/]",
+	Name:        "SH_GANJI_OLDCAR",
+	Description: "上海赶集网二手车 [http://sh.ganji.com/ershouche/]",
 	Pausetime:   300,
 	// Keyin:   KEYIN,
 	// Limit:        LIMIT,
