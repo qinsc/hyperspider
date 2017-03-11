@@ -6,6 +6,8 @@
 # Folders
 _obj
 _test
+pholcus_pkg
+.idea
 
 # Architecture specific extensions/prefixes
 *.[568vq]
